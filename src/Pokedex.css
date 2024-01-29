@@ -1,18 +1,19 @@
-.Pokedex{
+.Pokedex {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-.Pokedex-cards{
+  }
+  .Pokedex-cards {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     flex-wrap: wrap;
-}
-.Pokedex-winner{
-    color:#2066df;
-}
-
-.Pokedex-loser{
-    color:  #e53bb5;
-}
+  }
+  
+  .Pokedex-winner {
+    color: #40d494;
+  }
+  
+  .Pokedex-loser {
+    color: #e91e63;
+  }

@@ -1,15 +1,15 @@
 .Pokecard {
-    background-image: #a9c9ff;
-    background-image: linear-gradient(180deg, #a9c9ff 0%, #ffbbec 100%);
+    background-image: #587bb8;
+    background-image:linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);;
     width: 250px;
     border-radius: 1rem;
     margin: 1rem;
     padding: 1rem;
-    box-shadow: rgb(191, 40, 85) 0px 3px 8px;
+    box-shadow: rgb(169, 73, 224) 0px 3px 8px;
   
   }
   .Pokecard-title{
-      color: rgb(200, 44, 158);
+      color: rgb(132, 44, 200);
       font-size: 1.5rem;
       margin-bottom: 1.5rem;
   }
@@ -33,5 +33,5 @@
   }
   .Pokecard-data{
       font-size: 80%;
-      color:rgb(200, 44, 158);
+      color:rgb(132, 44, 200);
   }

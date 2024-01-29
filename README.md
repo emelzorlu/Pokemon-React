@@ -68,9 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Pokemon-react
-# Pokemon-React-Project
-# Pokemon-React-Project
-# pokemon-react-game
-# Pokemon-react
 # Pokemon-React
+![EkranKayd2024-01-2923 51 49-ezgif com-video-to-gif-converter](https://github.com/emelzorlu/Pokemon-React/assets/147662992/74dd1c42-19ce-479d-aa6c-bdb0aa85d58c)
+
+
+Gerçek kart verileri ile Pokemon APİ kullanılarak geliştirilmiş eğlenceli bir pokemon card oyunu.
+İki oyuncunun stratejik kart savaşlarında rekabet etmesine olanak tanır.
+
+
